@@ -1,4 +1,0 @@
-
-Platform: win32
-Hostname: DESKTOP-HFQ5PFU
-CPU Cores: 8
